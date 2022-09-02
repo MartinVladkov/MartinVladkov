@@ -15,7 +15,6 @@ I am a junior software developer with a focus on web development with .NET
 - HTML/CSS
 
 ## My Projects 🗃️
----
 ### .NET
  #### -- [FundStack](https://github.com/MartinVladkov/FundStack) 
  
