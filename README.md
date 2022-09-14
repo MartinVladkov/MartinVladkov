@@ -19,7 +19,8 @@ I am a junior software developer with a focus on web development with .NET
  #### -- [FundStack](https://github.com/MartinVladkov/FundStack) 
  
 ### JavaScript
-#### -- [Productive Timer](https://github.com/MartinVladkov/ProductiveTimer) 
+#### -- [Productive Timer](https://github.com/MartinVladkov/ProductiveTimer) (React.js)
+#### -- [Movie Library](https://github.com/MartinVladkov/MovieLibrary) (React.js)
 #### -- [Weather App](https://github.com/MartinVladkov/WeatherApp) 
 #### -- [ToDoList](https://github.com/MartinVladkov/ToDoList) 
 
