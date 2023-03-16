@@ -3,7 +3,7 @@
 I am a junior software developer with a focus on web development with .NET
 
 ## Education 📚
-
+- Master's in Outsourcing Projects and Companies at Sofia University (2023 - ongoing)
 - Bachelor of Computer Science at the Technical University of Sofia at FDIBA (2018 - 2022) 
 - C# Software Engineering at the Software University (SoftUni) (2020 - 2022)
 
@@ -19,6 +19,7 @@ I am a junior software developer with a focus on web development with .NET
  #### -- [FundStack](https://github.com/MartinVladkov/FundStack) (ASP.NET Core MVC)
  #### -- [Basketball League](https://github.com/MartinVladkov/BasketballLeague) (ASP.NET Web API /w Angular)
  #### -- [Open Library](https://github.com/MartinVladkov/OpenLibrary) (.NET Core /w WPF MVVM)
+ #### -- [Employees](https://github.com/MartinVladkov/Martin-Vladkov-employees) (ASP.NET Core MVC)
  
 ### JavaScript
 #### -- [Productive Timer](https://github.com/MartinVladkov/ProductiveTimer) (React.js)
